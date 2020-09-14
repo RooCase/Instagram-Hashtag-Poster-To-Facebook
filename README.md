@@ -1,6 +1,6 @@
 # Instagram-Hashtag-Poster-To-Facebook
 
-This project allows you to share all the hashtags to a Facebook page using an Apify script and Facebook's Graph API.
+This project allows you to share all posts using a specific hashtag to a Facebook business page using an Apify script and Facebook's Graph API.
 
 # Requirements
 
