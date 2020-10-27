@@ -4,9 +4,10 @@ This project allows you to share all posts using a specific hashtag to a Faceboo
 
 # Requirements
 
-  - A Facebook Page (Personal Profile won't work.)
+  - A Facebook Business Page (Personal Profile won't work.)
   - [This Apify actor](https://apify.com/jaroslavhejlek/instagram-scraper)
   - Access to the Facebook Graph API, connected to the Facebook Page.
+    - The Graph API token expires every 30 days, unless you manually extend the expiry date (the absolute maximum is 90 days, I believe.)
     - You'll need these permissions on your API Key:
         - pages_show_list
         - publish_to_groups
